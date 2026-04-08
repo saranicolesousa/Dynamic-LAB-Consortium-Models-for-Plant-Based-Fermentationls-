@@ -1,6 +1,6 @@
 # Dynamic LAB Consortium Models for Plant-Based Fermentation
 
-This repository contains the code, notes, and supporting materials developed for a bioinformatics project focused on modeling lactic acid bacteria (LAB) consortia in legume-based fermentation systems.
+This repository contains the code, notes, and supporting materials developed for a bioinformatics project focused on modelling lactic acid bacteria (LAB) consortium in legume-based fermentation systems.
 
 ## Project Overview
 
