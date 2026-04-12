@@ -4,7 +4,7 @@ This repository contains the code, notes, and supporting materials developed for
 
 ## Project Overview
 
-The project aims to use genome-scale metabolic models (GEMs) to study microbial interactions in plant-based matrices, with a focus on chickpea and fava bean fermentations. The main goal is to investigate how selected LAB strains may contribute to the mitigation of off-flavors and to the identification of favorable fermentation conditions through computational modeling.
+The project aims to use genome-scale metabolic models (GEMs) to study microbial interactions in plant-based matrices, with a focus on chickpea and fava bean fermentations. The main goal is to investigate how selected LAB strains may contribute to the mitigation of off-flavors and to the identification of favorable fermentation conditions through computational modelling.
 
 The workflow combines:
 - curation and standardization of GEMs,
