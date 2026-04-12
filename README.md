@@ -21,12 +21,7 @@ The workflow combines:
 
 ## Tools and Technologies
 
-- Python
-- COBRApy
-- SMETANA
-- MICOM
-- SBML
-- Genome-scale metabolic models (GEMs)
+- Python, COBRApy, Genome-scale metabolic models (GEMs), SMETANA, MICOM
 
-## Autor
+## Author
 Sara Sousa (PG59766)
