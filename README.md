@@ -1,10 +1,10 @@
 # Dynamic LAB Consortium Models for Plant-Based Fermentation
 
-This repository contains the code, notes, and supporting materials developed for a bioinformatics project focused on modelling lactic acid bacteria (LAB) consortium in legume-based fermentation systems.
+This repository contains the code, notes, and supporting materials developed for a bioinformatics project focused on modeling lactic acid bacteria (LAB) consortium in legume-based fermentation systems.
 
 ## Project Overview
 
-The project aims to use genome-scale metabolic models (GEMs) to study microbial interactions in plant-based matrices, with a focus on chickpea and fava bean fermentations. The main goal is to investigate how selected LAB strains may contribute to the mitigation of off-flavors and to the identification of favorable fermentation conditions through computational modelling.
+The project aims to use genome-scale metabolic models (GEMs) to study microbial interactions in plant-based matrices, with a focus on chickpea and fava bean fermentations. The main goal is to investigate how selected LAB strains may contribute to the mitigation of off-flavors and to the identification of favorable fermentation conditions through computational modeling.
 
 The workflow combines:
 - curation and standardization of GEMs,
